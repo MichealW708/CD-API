@@ -86,7 +86,3 @@ Recommended settings:
 - Block deletion of `main`
 
 The project demonstrates more than writing an API. It shows how engineering teams protect the main branch using repeatable automated validation. The key design concept is that CI checks should be deterministic and trustworthy enough to become required checks rather than advisory checks.
-
-## Resume bullet
-
-**C# CI/CD Demo — GitHub Actions** — Designed and implemented an ASP.NET Core REST API with automated GitHub Actions quality gates for builds, unit/integration testing, code coverage, formatting validation, dependency vulnerability auditing, and CodeQL security analysis; designed branch-protection requirements to prevent failing pull requests from merging.
